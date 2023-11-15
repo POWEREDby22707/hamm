@@ -1,3 +1,4 @@
-# hamm
+# hamm #communication
 mat
-it wents be matlab code
+it is matlab code
+its the my first, take easy
